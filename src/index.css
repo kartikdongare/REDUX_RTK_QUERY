@@ -1,0 +1,11 @@
+
+.add-data-std{
+  width: 50%;
+    margin: auto;
+    display: flex;
+    flex-direction: column;
+    gap: 14px;
+    border: 2px solid black;
+    padding: 17px;
+    border-radius: 10px;
+}

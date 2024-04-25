@@ -1,0 +1,76 @@
+{
+  "std-data": [
+    {
+      "id": "6",
+      "std_id": 2,
+      "std_name": "smith",
+      "std_standard": "5",
+      "completed": true,
+      "std_age": "16",
+      "std_school_name": "DBATU Univercity"
+    },
+    {
+      "id": "7",
+      "std_id": 2,
+      "std_name": "Rohit",
+      "std_standard": "5",
+      "completed": true,
+      "std_age": "16",
+      "std_school_name": "PUNE Univercity"
+    },
+    {
+      "id": "8",
+      "std_id": 2,
+      "std_name": "MS Dhoni",
+      "std_standard": "12",
+      "completed": false,
+      "std_age": "25",
+      "std_school_name": "BDVC Sangola"
+    },
+    {
+      "id": "9",
+      "std_id": 2,
+      "std_name": "Virat",
+      "std_standard": "5",
+      "completed": true,
+      "std_age": "16",
+      "std_school_name": "BDVC"
+    },
+    {
+      "id": "82_zrRVK-nL0KVID1OQ9j",
+      "std_name": "Kartik Dongare",
+      "std_standard": "B-tech",
+      "completed": false,
+      "std_age": "25",
+      "std_school_name": "DBATU Univercity",
+      "std_id": "1xv9l3tT6Ycw3Uh64hC1V"
+    },
+    {
+      "id": "etYSySQisS57g3_b5y1SY",
+      "std_name": "suyog",
+      "std_standard": "12",
+      "completed": false,
+      "std_age": "18",
+      "std_school_name": "sangola collge",
+      "std_id": "1ZQi1pOYBT2y-s7UwpANY"
+    },
+    {
+      "id": "NC_KUzrsCFXzKC2_8S3St",
+      "std_name": "Prathmesh",
+      "std_standard": "12",
+      "completed": true,
+      "std_age": "22",
+      "std_school_name": "new english school",
+      "std_id": "IcaUz-jGlvQg5GxRTUCb8"
+    },
+    {
+      "id": "J9QxQjmHdZfj1OuIUWyFb",
+      "std_name": "suyog",
+      "std_standard": "12",
+      "completed": true,
+      "std_age": "25",
+      "std_school_name": "sangola collge",
+      "std_id": "T-zjEWk-07QQ42tvvN7LP"
+    }
+  ]
+}
